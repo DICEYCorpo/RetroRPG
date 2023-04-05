@@ -1,0 +1,5 @@
+You haven’t been energized for a long time.#
+You are tired and can’t walk anymore.#
+What would you do now?#
+a) Eat your favorite animal.#
+b) Swim the long river.#

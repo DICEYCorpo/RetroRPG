@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Game\:\ This\ is\ a\ graphical\ Retro\ RPG\ Game\ \r\n\ Text\ based\ style\ but\ using\ the\ Swing\ tools\r\n\ to\ create\ a\ graphical-ish\ interface.\ \r\n\ \r\n\ JOptionPane.showInputDialog(\ main-panel\ ,\ "message")\r\n\ returns\ a\ string\ of\ text\ we\ can\ examine\ for\ commands\r\n\ in\ the\ game\ not\ handled\ strictly\ by\ buttons.\ \r\n\ \r\n\r\n\ @author\ (NAME\ HERE)\r\n\ @version\ (OCDSB\ 2022)\r\n
+comment1.params=ae
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=Game()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

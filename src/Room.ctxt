@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ Room\:\ a\ representation\ of\ a\ location\ in\ a\ Retro\ RPG\ game\r\n\ where\ the\ "player"\ experiences\ the\ environment\ of\ the\ \r\n\ location.\ \ This\ room\ will\ look\ a\ bit\ like\ the\ following\:\r\n\ \r\n\ +\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=+\r\n\ +\ The\ text\ description\ of\ the\ location\ the\ player\ +\r\n\ +\ will\ see\ when\ they\ enter\ the\ room\ and\ may\ be\ \ \ \ +\r\n\ +\ simple\ stuff\ they\ want\ to\ touch,\ pick\ up\ or,\ \ \ \ +\r\n\ +\ fight\ (monster),\ or\ person\ to\ "talk\ with"\ \ \ \ \ \ \ +\r\n\ +\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ ..\ Picture\ of\ monster,\ item,\ person\ optional\r\n\ \r\n\ Note\:\ buttons\ /\ OptionPane\ in\ driver\ class\ only.\ \r\n\r\n\ @author\ (YOUR\ NAME)\r\n\ @version\ (OCDSB\ 2022)\r\n
+comment1.params=filePath\ imagePath
+comment1.target=Room(java.lang.String,\ java.lang.String)
+comment2.params=canvas\ page\ xLoc\ yLoc
+comment2.target=void\ display(javax.swing.JPanel,\ java.awt.Graphics,\ int,\ int)
+comment2.text=\r\n\ A\ bit\ complicated,\ but\ we\ use\ the\ canvas\ as\ an\ 'observer'\ for\ drawing\r\n\ ImageIcons\ to\ it\ using\ the\ Graphics\ context.\ \ This\ method\ should\ draw\r\n\ an\ outline\ rectangel\ around\ the\ text\ to\ be\ displayed\ and\ display\ the\r\n\ picture\ directly\ under\ it.\ \r\n
+numComments=3

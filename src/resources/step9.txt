@@ -1,0 +1,7 @@
+You won the battle and you moved to the shore.#
+A speed boat is kept across a river on its port.#
+Would you drive the speedboat which is very old #
+or swim the river on your own. Remember! Not all#
+the functions of a speedboat are working.#
+a) Ride speed boat across the river.#
+b) Swim in a river.#

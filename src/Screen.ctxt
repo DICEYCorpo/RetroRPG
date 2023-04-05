@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Screen
+comment0.text=\r\n\ Screen\:\ Our\ main\ screen\ for\ anything\ we\ are\ going\r\n\ to\ show\ to\ our\ player\ ..\ mainly\ text\ but\ maybe\ some\r\n\ pictures\ of\ items,\ monsters,\ treasure,\ etc.\ \r\n\ \r\n\ @author\ (YOUR\ NAME)\r\n\ @version\ (OCDSB\ 2022)\r\n
+comment1.params=
+comment1.target=Screen()
+comment2.params=page
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
